@@ -10,6 +10,7 @@ function hasTargetSum(array, target) {
 
 /* 
   Write the Big O time complexity of your function here
+  O(n^2)
   It will take two iteration, the first through the entire array,
   the next is look through the rest of the array as it sum up the elements. This is Quadratic Time.
 */
